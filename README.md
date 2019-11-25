@@ -204,6 +204,3 @@ Oak.input(`
 `)
 ```
 
-## Repl.it Link
-
-https://repl.it/@CodeSachinCode/Oak-Programming-Language
